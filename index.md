@@ -1,4 +1,5 @@
 ---
+title: Welcome to the hub of Epicness!
 description: Stay here for updates and links about me!
 ---
 
