@@ -1,3 +1,8 @@
+---
+title: Welcome to the hub of Epicness!
+description: Stay here for updates and links about me!
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EpicnessGitHub/epicnessgithub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
