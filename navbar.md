@@ -1,7 +1,3 @@
----
-Nav Bar
----
-
 * [Home] (/index.md)
 * [About] (/about.md)
 * [Streaming] (/streaming.md)

@@ -1,6 +1,6 @@
 ---
-title: Social Links
+title: Streaming Links
 description: Links to all my social sites!
 ---
 
-[Twitter] (https://twitter.epicness.pro)
+[Mixer] (mixer.epicness.pro)
